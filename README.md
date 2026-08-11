@@ -71,7 +71,7 @@ collection of links.
 
 - [AGENTS.md](https://agents.md/) - Defines a simple project instruction file for coding agents.
 - [Claude Code Memory](https://docs.anthropic.com/en/docs/claude-code/memory) - Shows how Claude Code loads project, user, and local memory files.
-- [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines) - Packages portable behavioral rules for Claude Code, Cursor, and AGENTS.md consumers.
+- [Coding Agent Guidelines](https://github.com/incline-ltd/coding-agent-guidelines) - Packages portable behavioral rules for Claude Code, Cursor, and AGENTS.md consumers.
 - [Cursor Rules](https://docs.cursor.com/context/rules) - Describes reusable project rules that guide Cursor agents and chat.
 
 ## Claude Code
@@ -169,9 +169,8 @@ collection of links.
 
 ## Related Public Projects
 
-- [Algo Trading Website](https://github.com/ashishkaloge/algo-trading-website) - A real landing-page starter built with semantic HTML, CSS primitives, and vanilla JavaScript.
-- [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines#readme) - Reusable rules for coding agents working in real repositories.
-- [Production Launch Prompts](https://github.com/ashishkaloge/production-launch-prompts) - Review prompts and scorecards for checking software before launch.
+- [Coding Agent Guidelines](https://github.com/incline-ltd/coding-agent-guidelines#readme) - Reusable rules for coding agents working in real repositories.
+- [Production Launch Prompts](https://github.com/incline-ltd/production-launch-prompts) - Review prompts and scorecards for checking software before launch.
 
 ## Contributing
 
