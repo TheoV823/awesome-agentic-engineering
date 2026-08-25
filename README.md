@@ -128,6 +128,7 @@ collection of links.
 
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Analyzes local AI coding agent sessions for estimated cost, token use, elapsed time, and slow run details. Maintained by [@luoyuctl](https://github.com/luoyuctl).
 - [Jest](https://jestjs.io/) - Runs JavaScript tests with snapshots, mocks, and watch mode.
+- [Mneme](https://github.com/MnemeHQ/mneme) - Architectural drift prevention for the agentic AI SDLC: turns repo decisions and ADRs into deterministic checks so coding agents cannot silently violate the architecture your team committed to. Maintained by [@TheoV823](https://github.com/TheoV823).
 - [OpenAI Evals](https://github.com/openai/evals) - Provides a framework for measuring model behavior and task performance.
 - [Playwright](https://playwright.dev/) - Automates browser testing across Chromium, Firefox, and WebKit.
 - [pytest](https://docs.pytest.org/en/stable/) - Runs Python tests with fixtures, parametrization, and plugin support.
